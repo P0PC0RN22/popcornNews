@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string name="app_name">PopornNews</string>  <!--Your App Name on Fb -->
+   <string name="facebook_app_id">525805205200891</string>  <!-- fb app id-->
+   <string name="fb_login_protocol_scheme">fb525805205200891</string>  <!-- fb + app id-->
+</resources>
